@@ -4,7 +4,7 @@
 
 ### Demo
 
-- [预览]([https://bsgun.cn](https://homevue.netlify.app)
+- [预览](https://homevue.netlify.app)
 
 ### 修改
 
