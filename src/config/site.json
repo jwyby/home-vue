@@ -1,17 +1,17 @@
 [
   {
     "name": "博客",
-    "url": "https://blog.bsgun.cn",
+    "url": "https://luojin.qzz.io",
     "icon": "fa fa-blog"
   },
   {
-    "name": "雨云",
-    "url": "https://www.rainyun.com/Lin_",
+    "name": "去中心化聊天室",
+    "url": "https://nodecrypt.jwy202212.workers.dev/",
     "icon": "fa fa-cloud "
   },
   {
-    "name": "图床",
-    "url": "https://dev.ruom.top",
+    "name": "影视",
+    "url": "https://jwyjbj.ggff.net",
     "icon": "fa fa-image"
   },
   {
@@ -20,13 +20,13 @@
     "icon": "fa fa-panorama"
   },
   {
-    "name": "监测",
-    "url": "https://status.bsgun.cn",
+    "name": "社区",
+    "url": "https://walinecomment.dpdns.org",
     "icon": "fa fa-chart-line"
   },
   {
-    "name": "图标",
-    "url": "https://icon.ruom.top/",
+    "name": "新闻",
+    "url": "https://newsnow.busiyi.world",
     "icon": "fa fa-icons"
   }
 ]
